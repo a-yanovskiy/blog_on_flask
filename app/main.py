@@ -1,5 +1,5 @@
-from app.app import app
-from app.app import db
+from app import app
+from app import db
 import view
 
 if __name__ == '__main__':
