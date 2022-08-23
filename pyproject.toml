@@ -8,7 +8,8 @@ authors = ["a-yanovskiy <a.e.yanovskiy@gmail.com>"]
 python = "^3.8"
 Flask = "^2.2.2"
 Flask-SQLAlchemy = "^2.5.1"
-mysql-connector = "^2.2.9"
+mysql-connector-python = "^8.0.30"
+python-slugify = "^6.1.2"
 
 [tool.poetry.dev-dependencies]
 
